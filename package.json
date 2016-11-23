@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "daggy": "0.0.1",
-    "fantasy-combinators": "0.0.1"
+    "fantasy-combinators": "0.0.1",
+    "fantasy-land": "2.1.0"
   },
   "devDependencies": {
     "nodeunit": "0.9.x",
